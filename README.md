@@ -63,3 +63,7 @@ Then start from step-1.
 ![Alt text](https://github.com/srirampamerla/Ensemble_Ada-Boost/blob/main/ada6.jpeg?raw=true)
 ![Alt text](https://github.com/srirampamerla/Ensemble_Ada-Boost/blob/main/ada8.jpeg?raw=true)
 
+# Ada Boost Regressor
+Follow below steps
+![Alt text](https://github.com/srirampamerla/Ensemble_Ada-Boost/blob/main/adar.png?raw=true)
+![Alt text](https://github.com/srirampamerla/Ensemble_Ada-Boost/blob/main/adar2.png?raw=true)
